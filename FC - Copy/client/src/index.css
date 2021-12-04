@@ -1,0 +1,50 @@
+body {
+  margin: 0;
+  font-family: 'Sahel', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto',
+    'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: 'Sahel', source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.fc {
+  background-color: #efefef;
+}
+.fc table {
+  background-color: #fff;
+}
+
+.fc .fc-button {
+  background-color: #123137 !important;
+  border-color: #123137 !important;
+}
+.fc .fc-timeline-slot-cushion {
+  color: #0a1612;
+  text-decoration: none;
+}
+
+.thead,
+th {
+  /* background-color: #caebf2;
+  border-color: #b5c4c7 !important; */
+}
+.multiSelectContainer {
+  position: relative;
+  text-align: inherit !important;
+  width: 100%;
+}
+._2Nt60bozBhLm4MJ7-Uml9R {
+  margin: auto;
+  font-family: Sahel, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+}
+
+@font-face {
+  font-family: 'Sahel';
+  src: local('Sahel'), url(./Fonts/Sahel-FD-WOL.eot) format('eot');
+  src: local('Sahel'), url(./Fonts/Sahel-FD-WOL.ttf) format('ttf');
+  src: local('Sahel'), url(./Fonts/Sahel-FD-WOL.woff) format('woff');
+}
